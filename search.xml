@@ -20,7 +20,7 @@
       
         <tags>
             
-            <tag> blog,Hexo </tag>
+            <tag> Hexo </tag>
             
         </tags>
       
@@ -46,31 +46,6 @@
         <tags>
             
             <tag> Hexo </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>test</title>
-      <link href="/2019/10/24/test/"/>
-      <url>/2019/10/24/test/</url>
-      
-        <content type="html"><![CDATA[<h1 id="测试111-222"><a href="#测试111-222" class="headerlink" title="测试111  222"></a>测试111  222</h1><ol><li>test</li></ol><p>测试</p><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">twst</span><br></pre></td></tr></table></figure>]]></content>
-      
-      
-      <categories>
-          
-          <category> 测试分类 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 测试标签 </tag>
             
         </tags>
       
